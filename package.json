@@ -1,0 +1,24 @@
+{
+  "name": "ddd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.11",
+    "vitest": "^1.6.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@types/node": "^20.12.12",
+    "eslint": "^9.2.0",
+    "tsconfig": "^7.0.0",
+    "typescript": "^5.4.5",
+    "vite-tsconfig-paths": "^4.3.2"
+  }
+}
